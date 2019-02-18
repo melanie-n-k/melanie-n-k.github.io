@@ -1,7 +1,7 @@
 
 .navbar-brand {
   font-family: "Bitter", serif;
-  color: #E3D6FF!important;
+  color: #FA7268!important;
 }
 .navbar {
   border-bottom: 5px solid white;
@@ -9,12 +9,12 @@
 .list-unstyled {
   font-family: "Tajawal", sans-serif;
   font-size: 12px;
-  color: #5F4B8B;
+  color: #FA7268;
 }
 .bg-dark {
-    background-color: #5F4B8B!important;
+    background-color: #FFB8B2!important;
 }
 .nav-link {
   font-family: "Tajawal", sans-serif;
-    color: #BFB4D6!important;
+    color: #FA7268!important;
 }
