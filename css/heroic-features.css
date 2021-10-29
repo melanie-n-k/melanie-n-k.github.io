@@ -66,6 +66,10 @@ p.customfont {
     background-color: #FA7268!important;
     font-family: 'Tajawal', serif;
 }
+.flexIt-center {
+    display: flex;
+    justify-content: center;
+}
 /* Tooltip container */
 .tooltip {
     position: relative;
