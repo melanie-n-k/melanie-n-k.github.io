@@ -15,7 +15,7 @@
   }
 }
 .display-3 {
-  color: #FFBCB7;
+  color: #F8D948;
   font-size: 50px;
   font-family: 'Bitter', serif;
 text-shadow: 3px 3px 3px #aaa;
@@ -30,19 +30,19 @@ p.customfont {
 .toplinks {
   margin-left: 1em;
   margin-right: 1em;
-  color: #FFBCB7;
+  color: #ffea87;
   font-family: 'Bitter', sans-serif;
   font-size: 20px;
 }
 .lead {
-  color: #FA2D1E;
+  color: #ffea87;
   font-family: 'Tajawal', serif;
   font-size: 18px;
 }
 .links {
   margin-left: 1em;
   margin-right: 1em;
-  color: #FA7268;
+  color: #959A9C;
   font-family: 'Tajawal', serif;
 }
 .card-title {
@@ -59,11 +59,11 @@ p.customfont {
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
-    background-color: #FA7268;
+    background-color: #959A9C;
     border-radius: .3rem;
 }
 .bg-dark {
-    background-color: #FA7268!important;
+    background-color: #959A9C!important;
     font-family: 'Tajawal', serif;
 }
 /* Tooltip container */
@@ -78,7 +78,7 @@ p.customfont {
     visibility: hidden;
     width: 120px;
     background-color: black;
-    color: #fff;
+    color: #F8D948;
     text-align: center;
     padding: 5px 0;
     border-radius: 6px;
@@ -91,4 +91,8 @@ p.customfont {
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
     visibility: visible;
+}
+
+.pantone-yellow {
+    color: #ffea87; 
 }
